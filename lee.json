@@ -1,0 +1,68 @@
+{
+  "portfolioItems": [
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "STX 건설",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://",
+        "github": "https://",
+        "origin": "http://"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "STX 건설",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://",
+        "github": "https://",
+        "origin": "http://"
+      }
+    },
+    {
+      "h": "PERSONAL PROJECT",
+      "title": "STX 건설",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "1명(기여도: 100%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "work",
+        "githubLabel": "github",
+        "originLabel": "origin",
+        "work": "https://sleepy-stool-c42.notion.site/Venue-a85ace3bffd54c738136837a521a7cf6?pvs=4",
+        "github": "https://",
+        "origin": "http://"
+      }
+    },
+    {
+      "h": "TEAM PROJECT",
+      "title": "00000000",
+      "date": "2023. 11. 08 ~ 2023. 11. 21",
+      "contributors": "3명(기여도: 80%)",
+      "technologies": "HTML, CSS, JavaScript",
+      "src": "images/stx.gif",
+      "link": {
+        "workLabel": "Notion",
+        "githubLabel": "GitHub",
+        "originLabel": "Figma",
+        "Notion": "https://sleepy-stool-c42.notion.site/Venue-a85ace3bffd54c738136837a521a7cf6?pvs=4",
+        "GitHub": "https://",
+        "Figma": "http://"
+      }
+    }
+  ]
+}
