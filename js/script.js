@@ -34,7 +34,7 @@ window.onload = function () {
     });
   });
   goPortfolio.addEventListener("click", () => {
-    scrollIntoView(goPortfolio.datatset.link);
+    scrollIntoView(goPortfolio.dataset.link);
   });
   // // 스크롤 이동 함수
   function scrollIntoView(selector) {
